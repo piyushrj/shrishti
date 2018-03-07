@@ -1,0 +1,13 @@
+body{
+  width:auto;
+  text-align:center;
+}
+#button{
+  padding-top: 20px;
+}
+.buttons{
+  margin-top:40px;
+  font-color:white;
+  margin-bottom:40px;
+
+}
